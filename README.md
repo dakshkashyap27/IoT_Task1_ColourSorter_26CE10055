@@ -27,3 +27,5 @@ Main connections
 Further real-world applications
 
 A length-based sorter can route parcels in a warehouse, grade produce by size, or separate manufactured parts that fall outside a target range. A real conveyor would need a calibrated measuring station that holds each item against a reference guide while it is measured. It should also use a separate motor power supply, a stable sensor mount, and an emergency stop.
+Link to Tinkercad circuit :
+https://www.tinkercad.com/things/lw2RBQtKgIK-26ce10055-task-1?sharecode=QCH5rHA1ZJNtYMRv2aDfwm23TukWPMUCYpafw7oO1is
